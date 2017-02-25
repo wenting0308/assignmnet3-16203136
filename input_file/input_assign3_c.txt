@@ -1,0 +1,501 @@
+1000
+turn on 247,321 through 1053,1053
+turn off 347,295 through 1040,1139
+switch 507,661 through 1339,1271
+switch -44,123 through 849,376
+turn off 390,473 through 1341,1378
+turn on 672,628 through 856,821
+switch 181,443 through 387,882
+switch 399,380 through 1198,927
+turn on 652,638 through 1146,1013
+switch -283,656 through 726,1317
+turn off -15,-253 through 1091,1177
+turn on 207,-93 through 921,459
+turn off -289,524 through 515,1231
+turn off 487,496 through 903,1083
+switch 184,323 through 562,320
+switch 578,568 through 1028,1428
+turn on 175,173 through 1105,399
+turn off 188,603 through 890,743
+turn on 627,-133 through 1204,1218
+turn off 582,725 through 750,887
+turn on 502,922 through 803,632
+turn on 44,267 through 570,536
+turn off -13,-252 through 1033,719
+turn on 891,152 through 944,912
+turn on 956,882 through 973,978
+turn off 501,675 through 1095,1025
+turn off 453,564 through 971,1358
+switch 176,119 through 1038,603
+switch 753,-375 through 1085,1003
+turn on -290,505 through 629,1013
+turn on 288,330 through 495,413
+turn on -83,834 through 852,469
+turn off 607,547 through 1039,1091
+switch 43,754 through 974,70
+turn off 50,11 through 123,573
+turn off 804,438 through 905,836
+switch 811,910 through 1018,1383
+switch 93,607 through 1254,974
+switch 164,500 through 853,1073
+turn off 55,302 through 896,1214
+switch -136,689 through 1036,359
+switch 461,447 through 1462,1038
+switch 886,608 through 996,890
+turn on 89,441 through 966,762
+turn off 127,460 through 943,866
+switch -17,686 through 927,731
+turn off 586,727 through 1358,1307
+turn on -66,494 through 1221,1134
+switch 238,72 through 889,1068
+turn off 71,696 through 566,578
+turn on 344,-24 through 1107,1032
+turn off 623,631 through 843,895
+turn on 437,519 through 748,722
+turn off 564,201 through 1389,1082
+switch 959,531 through 983,964
+turn off 391,317 through 767,942
+switch -330,294 through 930,907
+turn off 254,758 through 1091,986
+turn on -109,135 through 388,348
+switch 25,405 through 1399,719
+switch -276,300 through 696,660
+turn off -54,554 through 558,848
+turn off 226,-233 through 539,989
+turn off 316,217 through 884,1132
+switch -251,382 through 614,1177
+turn off -153,300 through 489,308
+turn off 911,685 through 1380,1035
+turn off 324,47 through 815,855
+turn off 638,-63 through 904,1102
+turn on -248,551 through 645,1008
+turn off -329,916 through 1201,688
+switch 461,-10 through 961,1342
+switch -149,-449 through 935,519
+turn on 534,493 through 1305,1108
+turn off -279,237 through 1075,416
+switch 92,578 through 202,421
+turn on 249,-386 through 675,614
+turn on 398,-19 through 1237,1039
+turn on 82,915 through 465,404
+turn off 378,76 through 1001,1100
+turn on 147,465 through 750,286
+switch -208,322 through 620,942
+turn off 402,403 through 1199,1279
+switch 161,222 through 977,720
+turn off 445,167 through 1101,1371
+switch 326,-311 through 1158,1470
+turn off 239,86 through 509,523
+turn off -263,-135 through 904,1124
+turn on 57,133 through 1105,767
+switch 462,228 through 1202,805
+turn off 479,223 through 648,526
+turn off 305,260 through 1260,1054
+turn off 31,961 through 298,566
+turn on -204,421 through 532,913
+switch 251,-60 through 1117,1118
+switch -3,311 through 1243,862
+switch 542,3 through 1061,917
+switch 560,454 through 1443,1282
+turn off 604,-57 through 1235,818
+turn on -167,279 through 807,1183
+turn off 453,610 through 776,772
+switch 164,388 through 1256,1408
+turn on -15,190 through 188,825
+turn off 393,482 through 831,902
+turn off 98,-9 through 650,342
+turn off 572,296 through 1249,1070
+turn on 601,532 through 1033,1380
+turn off -159,193 through 848,640
+switch 72,-119 through 1002,879
+turn off 448,-180 through 944,1118
+turn off 749,0 through 1299,985
+turn on 166,609 through 591,547
+turn off 670,89 through 960,864
+switch 933,802 through 965,990
+switch 549,752 through 806,569
+turn on 394,58 through 1041,1150
+turn on 358,136 through 1020,1066
+turn on 695,67 through 943,1164
+turn on 187,618 through 922,1061
+switch 805,253 through 808,808
+switch 146,-467 through 724,1289
+switch 710,107 through 1052,1254
+turn off 553,307 through 826,731
+turn off 485,223 through 1375,1388
+switch 39,250 through 469,247
+turn off -32,-102 through 510,1211
+turn on 499,157 through 1094,1113
+turn off 27,78 through 712,934
+turn off 552,393 through 1133,882
+switch 765,-293 through 1155,1340
+turn off 523,-49 through 1171,1058
+switch 120,139 through 820,671
+turn off 569,320 through 1112,1382
+turn off 368,16 through 822,977
+turn off 378,-31 through 1339,801
+turn on 253,456 through 995,1080
+turn off -62,146 through 1104,597
+switch 68,663 through 797,1030
+turn off -194,740 through 1058,654
+switch 814,-70 through 1049,1432
+turn on -285,791 through 743,1114
+switch -59,315 through 733,416
+switch 80,375 through 1145,1426
+switch 437,434 through 1116,739
+switch 519,97 through 861,912
+turn off -341,458 through 918,970
+switch -301,-116 through 819,1280
+turn on 548,580 through 949,1259
+turn off 783,615 through 958,1201
+turn off 271,410 through 882,926
+switch 722,78 through 1170,1217
+turn on 296,146 through 1333,1136
+switch -19,242 through 959,987
+switch 212,195 through 918,1166
+turn off 499,447 through 1440,869
+switch 374,651 through 653,411
+turn off 371,131 through 986,849
+turn on 21,537 through 904,1057
+turn on 305,-418 through 953,963
+turn off 954,530 through 973,996
+switch 492,908 through 1272,1259
+turn off 823,831 through 837,836
+turn on 182,-84 through 650,732
+switch 248,118 through 1044,1011
+switch 95,-277 through 401,831
+turn off -12,-325 through 685,698
+switch 595,604 through 1193,1023
+turn off 19,501 through 1173,879
+turn on -191,-33 through 1312,1144
+turn on 125,-146 through 984,821
+turn on -33,699 through 662,608
+turn off 197,391 through 1293,1248
+turn off 643,326 through 956,977
+turn off 489,562 through 1239,1098
+turn off 201,714 through 356,823
+turn on -202,124 through 644,565
+turn off 382,128 through 1175,973
+turn on 686,555 through 853,1292
+turn off -174,135 through 1269,663
+turn on 138,603 through 548,595
+turn on -90,-153 through 1185,513
+turn off 476,350 through 1339,1073
+switch 752,41 through 1175,1312
+turn on -364,595 through 611,1343
+switch 363,169 through 869,1016
+switch 353,552 through 1393,1129
+switch -142,218 through 560,920
+switch 560,316 through 1231,1318
+turn off 292,-152 through 924,1224
+turn off 583,942 through 1359,1208
+switch 748,286 through 1487,997
+turn off 830,115 through 932,977
+turn on 105,-23 through 910,898
+switch 277,831 through 1081,1334
+turn off 259,237 through 914,836
+turn off 651,859 through 731,970
+turn on 412,-47 through 1053,1213
+switch 194,362 through 1076,1231
+turn off -135,170 through 988,656
+turn on 49,233 through 829,964
+turn on 467,772 through 1266,1010
+turn off -456,-81 through 718,827
+turn on 455,245 through 563,840
+switch 861,-90 through 1403,1154
+turn on 277,645 through 1128,1057
+switch 163,831 through 178,759
+turn on 766,789 through 967,1125
+turn on 546,223 through 927,1187
+turn off 491,258 through 721,795
+turn on 645,228 through 1215,1216
+turn off -472,572 through 1165,636
+turn off 540,901 through 978,668
+turn on 59,869 through 960,737
+turn off -170,-384 through 1320,1003
+turn on 813,330 through 845,983
+switch 770,285 through 1396,1089
+turn off 772,411 through 1075,1279
+turn on 541,398 through 1332,1213
+turn off 264,-300 through 963,980
+turn on 529,910 through 995,914
+turn off 763,411 through 1413,1039
+turn off 348,477 through 1101,1293
+turn off 744,230 through 1312,1281
+turn off 251,751 through 1375,1379
+switch 487,123 through 1240,1191
+turn on 672,348 through 857,922
+turn off 968,282 through 980,985
+turn on 871,559 through 939,987
+turn on 322,215 through 507,424
+turn off 494,256 through 973,1422
+turn off -307,359 through 265,1252
+switch 585,576 through 711,587
+turn on 38,697 through 428,1199
+switch 552,589 through 1169,1226
+turn off 154,582 through 738,1085
+turn on 155,158 through 1042,1064
+switch 380,-52 through 1278,946
+switch 694,489 through 1194,1414
+turn off 639,47 through 1285,1260
+switch 76,92 through 948,793
+turn off 816,938 through 898,1437
+turn off 480,89 through 1423,1298
+turn off 142,512 through 1147,823
+turn on 244,922 through 556,251
+turn off 520,-388 through 1017,1229
+turn on 504,516 through 1196,1036
+turn off -286,-8 through 1210,534
+turn on 585,618 through 1238,935
+switch 275,-349 through 931,1282
+turn off -275,-221 through 742,683
+turn off -309,61 through 782,973
+switch -118,244 through 779,957
+switch 351,470 through 648,1076
+turn on 362,867 through 679,767
+turn on 588,557 through 721,623
+turn on 467,394 through 927,1152
+turn on 108,551 through 861,957
+switch -193,400 through 951,715
+switch 407,551 through 1158,1151
+switch 50,-62 through 1045,906
+switch 416,-47 through 1186,903
+turn on 454,215 through 790,831
+turn off 330,-163 through 1053,1263
+turn on 482,565 through 1057,1310
+turn off 303,-305 through 767,1212
+switch 349,586 through 1136,623
+turn off -307,60 through 1366,687
+switch 545,312 through 892,1171
+turn off 360,444 through 380,853
+switch 65,-37 through 1280,731
+turn off 678,227 through 1088,970
+turn off 834,369 through 1286,1316
+turn on 563,77 through 874,1253
+switch -11,468 through 563,118
+turn on 612,423 through 1065,1265
+turn on 474,45 through 1339,1097
+turn on 375,483 through 1135,988
+turn on 296,-237 through 1345,750
+turn on 536,224 through 967,1145
+turn off 306,11 through 1077,1204
+switch 366,283 through 1023,1252
+switch 106,-279 through 980,1165
+switch -104,413 through 1152,978
+switch 272,28 through 904,928
+switch 235,493 through 1120,1297
+turn off 94,373 through 430,378
+turn off 468,664 through 1221,1085
+switch 398,522 through 770,1034
+turn on 383,544 through 1030,970
+switch 901,246 through 921,972
+turn on 505,724 through 705,832
+switch 179,-211 through 741,567
+turn off 728,-272 through 1062,1055
+switch 720,-322 through 1386,1177
+turn on -329,469 through 490,1148
+switch 191,799 through 1110,1100
+turn off -75,606 through 790,1031
+turn on 824,375 through 894,970
+turn off 709,435 through 746,720
+turn on -139,8 through 873,1082
+switch -48,173 through 305,523
+turn on -35,637 through 744,706
+turn on 370,-231 through 1082,1194
+turn off 45,-167 through 1437,769
+switch 140,531 through 1146,1024
+switch 217,298 through 237,479
+turn on 0,317 through 698,580
+turn on 175,907 through 490,331
+turn off 576,882 through 1419,922
+switch 522,154 through 1322,974
+switch 136,758 through 539,1193
+turn on 681,141 through 1274,1063
+switch 176,-376 through 848,652
+turn off 303,592 through 1297,929
+switch 783,915 through 799,931
+switch 360,427 through 966,1092
+turn off 170,-76 through 1132,1194
+switch 822,402 through 1179,981
+turn off -210,652 through 991,872
+switch 471,39 through 1034,1043
+switch 44,61 through 76,178
+turn on 317,-78 through 1183,1125
+turn on -121,578 through 965,1248
+turn on 265,401 through 853,812
+turn on 492,633 through 602,602
+turn off -91,320 through 1083,1175
+turn off 612,252 through 1053,1462
+turn off 524,77 through 977,722
+switch 219,265 through 1203,945
+turn off 518,186 through 1076,1133
+turn off 521,120 through 1266,1244
+turn off 840,629 through 883,865
+switch 870,281 through 1064,1094
+switch 762,-77 through 980,1088
+switch 208,473 through 732,1136
+turn off -8,69 through 821,977
+turn on 688,755 through 1061,1260
+turn on -170,557 through 1148,1102
+switch 656,17 through 1296,1223
+turn off -195,-118 through 600,1450
+turn off 943,541 through 993,960
+turn off 7,240 through 579,577
+turn off -81,-13 through 860,1016
+switch 609,456 through 932,1041
+turn on 251,308 through 749,772
+turn on 98,262 through 1209,1301
+switch -241,393 through 1078,628
+turn on 241,791 through 834,736
+turn off 422,638 through 750,492
+turn on 647,-141 through 1179,1180
+turn off 201,-200 through 1068,771
+switch -341,572 through 1181,1327
+turn on 638,467 through 1206,1167
+turn off 690,763 through 864,777
+turn on -257,-133 through 941,851
+turn on 817,816 through 1126,1257
+turn on 229,-71 through 768,704
+switch -215,531 through 554,878
+switch 636,716 through 722,842
+turn off -53,-264 through 784,893
+switch 519,507 through 1455,981
+turn on 567,485 through 794,965
+turn on 587,543 through 1278,986
+turn on 315,127 through 1164,1386
+turn off -279,-162 through 463,1095
+turn off 428,621 through 1268,1336
+turn on 45,439 through 613,1010
+switch -25,803 through 601,860
+switch 294,-138 through 794,613
+turn off 100,464 through 700,686
+turn off 573,103 through 755,1124
+switch 169,-37 through 697,453
+turn off 229,-389 through 479,1343
+turn off 577,594 through 861,912
+switch -75,615 through 286,1133
+turn off 101,428 through 1140,589
+turn on -122,-282 through 1040,703
+switch 302,-381 through 795,797
+turn off 132,630 through 905,1241
+turn off 652,442 through 986,1263
+turn on 57,522 through 390,456
+switch 217,436 through 660,839
+turn on 596,23 through 1205,1102
+turn off 555,-352 through 1416,1147
+turn off 420,741 through 964,1428
+switch 410,106 through 1459,1159
+turn off 368,-290 through 1372,899
+switch 488,664 through 1218,1052
+turn off 607,113 through 1278,1319
+switch -41,-146 through 823,1014
+turn on 141,504 through 411,624
+switch 496,-359 through 1259,874
+switch 134,541 through 840,511
+turn on 98,-141 through 1225,857
+switch 802,627 through 931,817
+switch 507,136 through 811,969
+turn on 650,-98 through 1253,747
+switch -12,309 through 910,621
+switch -119,-159 through 1217,836
+turn on 761,-459 through 1416,1179
+switch 142,-357 through 1112,657
+turn off 411,-119 through 1368,1419
+turn on 152,-48 through 645,667
+switch -89,453 through 735,281
+switch -334,787 through 649,1190
+turn off 380,333 through 1080,1002
+switch 856,125 through 962,997
+turn on -223,407 through 472,1038
+turn off -272,-59 through 592,1151
+turn on -425,-259 through 876,345
+turn off 918,407 through 1097,1253
+switch 422,646 through 923,1141
+turn off 812,25 through 1078,1429
+turn off 465,119 through 823,678
+turn off 196,439 through 1159,1276
+turn on 238,204 through 863,1235
+turn off 45,-307 through 432,597
+turn on -185,567 through 831,687
+turn on 236,445 through 459,756
+turn on -121,186 through 565,887
+turn off 241,611 through 1311,1262
+turn on 391,27 through 913,1216
+turn on 272,-70 through 1315,1104
+switch -291,633 through 550,1160
+turn on 358,-250 through 1217,1077
+turn off 304,772 through 1478,1392
+turn off 925,823 through 957,981
+turn off -70,-49 through 858,1184
+switch 351,65 through 1027,867
+turn off 740,3 through 1077,1220
+switch 353,165 through 865,883
+turn on -306,578 through 757,887
+turn on -237,-208 through 438,932
+turn off 370,582 through 1264,811
+turn on 792,-118 through 1383,1303
+switch 508,-22 through 1143,1362
+turn on 206,576 through 568,1069
+switch 356,847 through 399,932
+turn off 859,799 through 1386,1220
+switch 362,160 through 486,722
+turn off -91,414 through 932,1261
+turn on 306,-184 through 1158,988
+turn off 168,327 through 846,617
+turn off 34,-230 through 1270,964
+turn off -315,308 through 912,1299
+turn off 241,409 through 871,920
+turn off 671,33 through 855,1001
+turn on -69,101 through 1242,651
+switch 777,96 through 1183,959
+turn on -51,357 through 1043,844
+switch 742,184 through 1264,940
+switch 202,515 through 1191,713
+turn off 774,127 through 1006,956
+switch 580,41 through 1010,1361
+switch 624,389 through 1147,1107
+switch 550,952 through 849,968
+turn on -366,816 through 629,954
+turn off 291,720 through 835,788
+switch 829,758 through 1168,1135
+turn off -190,-12 through 968,809
+turn off 476,-197 through 1205,1119
+turn on 236,30 through 285,547
+turn off 698,522 through 811,846
+turn off 588,862 through 922,1090
+switch 434,-77 through 950,648
+turn on 149,152 through 1034,891
+turn off 876,665 through 1072,1124
+turn off 425,238 through 938,1191
+switch 736,965 through 935,786
+turn off 246,428 through 956,643
+switch -71,470 through 1098,622
+switch 178,127 through 823,873
+turn off 748,415 through 906,915
+switch 290,371 through 806,1162
+switch 578,540 through 1259,1370
+turn on 773,710 through 964,937
+turn on -257,736 through 1180,1242
+turn off 25,39 through 913,971
+turn on 205,432 through 876,368
+turn on 335,70 through 881,1104
+turn on -151,682 through 1052,1170
+switch 599,410 through 1219,1109
+turn on 720,446 through 1380,1388
+switch 178,441 through 265,654
+turn on 909,862 through 949,998
+switch 114,518 through 1363,827
+turn on 539,389 through 664,747
+turn on 225,86 through 445,1056
+turn on 197,-166 through 1035,1166
+turn on 195,-315 through 1118,967
+switch -254,-64 through 667,1160
+switch 22,575 through 849,405
+turn off 498,363 through 1064,1359
+switch 619,-97 through 1456,1151
+turn off 823,498 through 915,913
+switch 41,900 through 272,96
+turn off 628,156 through 751,813
+turn on 737,-63 through 999,1176
+switch 275,558 through 944,1367
+switch 89,354 through 1111,876
