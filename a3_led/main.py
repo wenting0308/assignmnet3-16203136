@@ -124,11 +124,13 @@ else:
             #run command
             ledLight = run_led(ledLight, instr, region)
             pprint(ledLight)
-                    
-                    
-                    
             
             count += 1
+        #sum the number of lights on
+        ledOn = 0
+        for i in range(ledSize):
+            ledOn += sum(ledLight[i])
+        print("light on = ", ledOn)
         print(count)
     fn.close()
         
