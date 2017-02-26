@@ -4,10 +4,16 @@ import sys
 import argparse
 from pprint import pprint
 
-def check_instruction(instr):
-    return instr in ["turn", "on", "off", "switch", "turnon","turnoff","switch"]
+def check_is_instr(string):
+    """return True if words is in the list"""
+    return string in ["turn", "on", "off", "switch"]
+
+def check_combin_instr(instr):
+    """return True if instruction afer combination is valid"""
+    return instr in ["turnon", "turnoff", "switch"]
 
 def check_region(size, r):
+    """return adjust region with valid x, y coordinate"""
     #check if out of size
     for i in range(4):
         if r[i] < 0:
@@ -22,6 +28,32 @@ def check_region(size, r):
         
     return r
 
+def run_led(led, instr, r):
+    """return 2D list after run the command"""
+    xFrom, xTo = r[0], r[2]
+    yFrom, yTo = r[1], r[3]
+    
+    #turn on
+    if instr == "turnon":
+        for x in range(xFrom, xTo+1):
+            for y in range(yFrom, yTo+1):
+                led[x][y] = True
+    
+    #turn off
+    elif instr == "turnoff":
+        for x in range(xFrom, xTo+1):
+            for y in range(yFrom, yTo+1):
+                led[x][y] = False
+    
+    #switch
+    else:
+        for x in range(xFrom, xTo+1):
+            for y in range(yFrom, yTo+1):
+                if led[x][y] == True:
+                    led[x][y] = False
+                else:
+                    led[x][y] = True
+    return led
     
 
 # --input as optional argument for user to input a filename to process
@@ -72,25 +104,26 @@ else:
             instr = ""
             region = [0,0,0,0]
             i = 0
-            for x in command:
-                #first check if is valid instruction 
-                if check_instruction(x):
-                    instr += x
+            for s in command:
+                #first check if is instruction 
+                if check_is_instr(s):
+                    instr += s
                 #ignore "through"
-                elif x.isdigit():
-                    region[i] = int(x)
+                elif s.isdigit():
+                    region[i] = int(s)
                     i+=1
             
             #check if instruction after combination is valid
-            if not check_instruction(instr):
+            if not check_combin_instr(instr):
                 continue
-            print("before:",region)
+            print("before:",instr, region)
             region = check_region(ledSize, region)
             print("return:", region)
             print()
             
-                    
-                    
+            #run command
+            ledLight = run_led(ledLight, instr, region)
+            pprint(ledLight)
                     
                     
                     
