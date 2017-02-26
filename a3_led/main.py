@@ -29,7 +29,7 @@ def check_region(size, r):
     return r
 
 def run_led(led, instr, r):
-    """return 2D list after run the command"""
+    """execute command line and return 2D list"""
     xFrom, xTo = r[0], r[2]
     yFrom, yTo = r[1], r[3]
     
@@ -54,7 +54,6 @@ def run_led(led, instr, r):
                 else:
                     led[x][y] = True
     return led
-    
 
 # --input as optional argument for user to input a filename to process
 parser = argparse.ArgumentParser("Process input file")
@@ -65,7 +64,6 @@ input = args.input
 
 # read file of argument input and check if file exists
 infile = '../input_file/' + str(input[0])
-
 try:
     fn = open(infile,'r')
 
@@ -89,9 +87,8 @@ else:
     else:
         #create 2D list and initialize value to False (turn off)
         ledLight = [ [False for i in range(ledSize)] for i in range(ledSize) ]
-        pprint(ledLight)
-         
-        count = 0
+
+        lineread = 0
         while line !='':
             
             line = fn.readline()
@@ -115,22 +112,21 @@ else:
             
             #check if instruction after combination is valid
             if not check_combin_instr(instr):
+                #if command not in "turnon" "turnoff" "switch" then ignore this command
                 continue
-            print("before:",instr, region)
+            
+            #correct from - to region with valid coordinate
             region = check_region(ledSize, region)
-            print("return:", region)
-            print()
             
             #run command
             ledLight = run_led(ledLight, instr, region)
-            pprint(ledLight)
             
-            count += 1
+            lineread += 1
         #sum the number of lights on
         ledOn = 0
         for i in range(ledSize):
             ledOn += sum(ledLight[i])
         print("light on = ", ledOn)
-        print(count)
+
     fn.close()
         
