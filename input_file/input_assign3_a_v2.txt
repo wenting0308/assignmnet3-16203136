@@ -1,0 +1,1000 @@
+5000
+turn off 3990,2730 through 4692,4333
+turn off 4721,4881 through 4817,4966
+switch 1685,2653 through 4969,3361
+turn off 4455,1500 through 4777,2989
+turn off 1230,2700 through 4971,4599
+turn off 370,2687 through 1016,4548
+turn on 1360,657 through 2601,2954
+turn off 3964,4114 through 4653,4323
+turn on 2585,3627 through 4228,4285
+turn off 554,735 through 2925,3568
+turn off 3299,2908 through 4880,3967
+switch 3847,4698 through 4194,4980
+turn on 4339,3563 through 4932,3855
+switch 2293,1306 through 4772,3449
+switch 1396,3193 through 1912,4040
+turn off 1089,1148 through 3315,1327
+turn on 944,678 through 967,3564
+turn on 4841,2071 through 4886,2671
+switch 3534,1292 through 4846,4951
+turn on 1996,4119 through 2850,4341
+turn on 494,2340 through 3831,4022
+switch 4823,4580 through 4969,4933
+turn off 1798,3362 through 2692,4203
+turn off 266,2585 through 707,3710
+turn on 3316,4736 through 3467,4790
+turn off 4569,1178 through 4641,2816
+turn on 1467,2398 through 4075,2440
+turn off 1731,1556 through 2920,4285
+turn off 444,2809 through 2953,3158
+turn on 723,1715 through 3361,1771
+turn off 2976,791 through 4757,1012
+switch 441,2944 through 4872,3572
+turn off 2137,4713 through 4467,4972
+switch 2232,3146 through 2588,3803
+turn on 2583,3426 through 3196,4142
+turn on 691,1004 through 3312,1051
+switch 1134,1548 through 1627,4447
+turn on 3168,4001 through 3970,4330
+turn off 394,1244 through 4077,3548
+turn on 3652,4133 through 3880,4788
+switch 3039,1468 through 3948,1981
+turn on 4199,1884 through 4230,4839
+switch 4962,1958 through 4979,3015
+turn off 4535,2262 through 4724,4616
+turn off 4688,4629 through 4936,4819
+turn off 3654,1587 through 4295,2559
+turn off 435,4177 through 2934,4694
+turn on 3902,3543 through 4676,4407
+switch 828,741 through 4193,959
+turn on 187,966 through 4828,4375
+turn on 2983,4316 through 3412,4346
+switch 806,4685 through 3914,4929
+switch 607,801 through 3642,2462
+switch 738,3345 through 4076,4707
+turn on 4425,3676 through 4806,4877
+turn on 3245,669 through 3305,2869
+switch 3267,4169 through 3456,4265
+turn off 4024,4376 through 4792,4724
+turn off 2683,2599 through 2695,4935
+switch 1894,1744 through 3100,4913
+turn on 3680,808 through 4705,3799
+turn on 1212,721 through 1362,2356
+turn on 4225,4045 through 4670,4064
+turn off 4912,546 through 4998,2453
+turn on 3298,775 through 3664,3120
+switch 1687,1151 through 3240,4497
+turn off 2070,3064 through 2868,4466
+turn off 4213,4834 through 4549,4908
+turn off 863,4584 through 4338,4659
+switch 1602,2353 through 3818,3436
+switch 795,640 through 4281,1338
+switch 783,2083 through 2420,3009
+switch 1200,4650 through 2315,4893
+switch 151,4281 through 1643,4531
+switch 2807,4911 through 4043,4963
+turn on 4710,3808 through 4816,4887
+turn on 4459,1957 through 4746,3271
+switch 4082,4021 through 4394,4527
+turn off 2564,3434 through 3984,4909
+switch 3594,3783 through 3706,4882
+turn off 3626,934 through 3692,1482
+switch 2324,4535 through 2425,4912
+turn on 3243,2554 through 3596,4311
+turn off 866,3032 through 1093,4930
+turn off 336,803 through 1853,1039
+turn on 1851,3273 through 2347,3402
+turn on 3034,874 through 4691,3220
+turn on 3466,1522 through 4931,4346
+turn on 2566,2788 through 4094,3175
+turn off 3147,1504 through 4372,4263
+turn off 4424,8 through 4890,2068
+switch 1972,1337 through 4061,3320
+turn on 380,3478 through 1621,3499
+turn on 3611,1591 through 4636,4811
+turn off 2006,3417 through 3182,4968
+turn on 2425,3127 through 2653,3571
+turn off 1747,963 through 1837,4370
+turn off 1065,1675 through 3401,4419
+switch 2767,1913 through 3278,3172
+turn off 4055,4365 through 4190,4685
+turn off 4013,414 through 4961,629
+switch 3872,1511 through 4351,2409
+turn on 4879,547 through 4956,1550
+switch 2688,2640 through 3895,4649
+turn off 1450,4903 through 4230,4957
+switch 3953,4781 through 4491,4982
+turn off 4655,1412 through 4975,3639
+turn off 2888,4590 through 3292,4974
+turn off 2592,249 through 4071,3886
+turn off 3896,2725 through 3998,2743
+turn on 1261,4711 through 1720,4810
+turn off 789,564 through 3273,2583
+turn on 3264,4923 through 4984,4967
+turn on 1243,1737 through 4998,3420
+turn on 2784,1269 through 3224,4163
+turn on 64,3801 through 3689,4324
+turn on 2997,2243 through 4596,4608
+switch 3110,3486 through 4205,4769
+turn on 3626,167 through 4118,3104
+switch 1578,4270 through 4444,4388
+switch 364,1284 through 2955,2159
+switch 2398,477 through 4906,4415
+switch 1605,2910 through 2228,4933
+switch 3160,665 through 4986,4865
+switch 396,1330 through 4019,3120
+turn on 4978,1740 through 4979,2498
+turn off 4174,4816 through 4327,4821
+turn on 3735,3756 through 4727,4943
+turn on 1724,757 through 2702,3518
+switch 4580,825 through 4849,1885
+turn on 3665,404 through 3963,1984
+switch 718,4323 through 2739,4816
+turn off 3393,4961 through 4716,4984
+turn off 2875,1374 through 4259,4357
+turn off 4225,1869 through 4359,1905
+turn on 656,3327 through 1718,4918
+turn off 2980,449 through 4413,1120
+switch 4583,3763 through 4700,4452
+switch 3075,2197 through 4147,2905
+switch 2984,2029 through 3048,3346
+turn off 1963,3468 through 4947,3973
+switch 3636,64 through 4962,1143
+turn on 4395,3587 through 4934,4287
+switch 1272,819 through 4822,3307
+turn on 4503,1405 through 4705,4375
+switch 463,3671 through 4769,4778
+turn on 1418,4897 through 2309,4905
+switch 3259,4686 through 3312,4733
+switch 4856,555 through 4980,2703
+turn on 1490,2670 through 4528,2839
+switch 1005,2560 through 3308,4174
+turn off 3488,3873 through 4566,4280
+turn on 3121,4334 through 3298,4579
+turn on 179,1828 through 927,2699
+switch 335,437 through 4394,1504
+switch 4717,3341 through 4891,4409
+turn on 2273,3764 through 2557,4592
+turn on 2275,103 through 3969,2345
+switch 1967,2518 through 2202,3861
+turn on 1748,3601 through 3361,4465
+turn on 352,894 through 555,4081
+switch 4235,1188 through 4394,2495
+switch 3251,2950 through 4898,3638
+turn off 2246,3480 through 2734,4919
+turn off 3893,3055 through 4687,3523
+turn off 4776,2064 through 4884,2407
+switch 2433,4376 through 4653,4504
+turn off 3641,1364 through 4486,3653
+turn on 2092,3135 through 3648,4329
+turn off 2252,3704 through 3473,4275
+switch 83,3592 through 2750,3887
+switch 2935,939 through 4050,2465
+turn off 2205,3413 through 3521,4290
+turn off 3380,1630 through 4491,4034
+switch 4135,4029 through 4455,4693
+turn on 69,3618 through 1464,4491
+turn on 4333,2329 through 4593,3223
+switch 1792,4421 through 3098,4950
+switch 3678,1694 through 4571,4447
+turn on 3806,283 through 4982,4815
+turn off 2557,1843 through 3717,2317
+switch 1641,2721 through 2328,4219
+switch 3051,400 through 4013,745
+turn on 4355,3138 through 4418,3904
+switch 1269,4333 through 2574,4846
+turn on 23,3507 through 3416,4837
+switch 465,4777 through 3787,4907
+switch 2114,3545 through 4822,3637
+turn on 2765,3711 through 4804,4835
+turn off 4824,22 through 4961,4562
+turn off 4408,4458 through 4589,4490
+switch 780,3262 through 4738,4599
+switch 3821,2299 through 4392,3210
+turn on 2512,3648 through 2794,4921
+turn on 1224,799 through 4273,3578
+turn off 4506,844 through 4619,4574
+turn off 3010,4629 through 4305,4665
+switch 2113,1443 through 3937,3622
+turn off 1647,4410 through 4538,4712
+switch 7,3469 through 3883,3725
+turn off 593,1837 through 3985,4955
+switch 2132,1289 through 2137,1690
+switch 282,4332 through 1721,4562
+turn on 2855,2580 through 3838,3428
+turn on 4559,3498 through 4933,3881
+turn off 1679,952 through 1796,1425
+turn off 4437,2203 through 4839,4001
+turn off 2495,1386 through 3040,2974
+switch 4252,2183 through 4534,3020
+turn on 4859,4064 through 4909,4425
+switch 3480,4291 through 4226,4419
+switch 3043,3524 through 4498,3620
+turn off 4148,1662 through 4841,2954
+turn off 2105,667 through 2108,3625
+turn off 3605,4623 through 4239,4691
+turn on 1831,1891 through 3516,3561
+switch 177,1175 through 3818,1500
+turn on 3097,3267 through 3144,4599
+turn off 2508,1703 through 4397,1829
+turn off 2174,2778 through 3321,3725
+turn on 1388,2452 through 3327,4438
+switch 401,4960 through 4557,4987
+turn off 3115,375 through 4682,4273
+turn on 2192,4045 through 2831,4223
+turn on 3573,4009 through 3650,4123
+switch 2903,1042 through 3483,2581
+switch 780,4758 through 4891,4896
+switch 3004,2998 through 4665,3649
+turn on 1752,1971 through 3539,3909
+switch 2655,4575 through 4222,4793
+turn on 2942,2318 through 4696,2428
+turn off 2727,2473 through 3322,4241
+turn on 2577,2504 through 2637,3392
+switch 2941,2115 through 4657,4837
+turn off 2870,3572 through 4400,4553
+turn on 2508,3723 through 4943,4765
+turn on 1216,4399 through 3092,4947
+turn on 3967,3716 through 4828,4310
+turn on 4144,323 through 4620,4487
+switch 1247,22 through 2554,176
+turn on 3742,1245 through 4921,4767
+turn on 992,20 through 4222,948
+turn on 4399,1716 through 4466,3980
+turn off 3003,2155 through 4939,2225
+switch 1862,3580 through 2527,4151
+turn on 2435,1353 through 3793,3757
+turn on 917,3599 through 1606,4731
+turn on 275,913 through 1750,2630
+switch 4141,3162 through 4691,4171
+turn on 2299,1832 through 3293,2241
+switch 3499,636 through 4125,1419
+switch 1499,3144 through 3664,4564
+turn on 1729,3017 through 3376,4791
+switch 1804,2362 through 3074,4328
+switch 4866,1988 through 4972,3108
+turn on 1801,1565 through 2270,4152
+turn on 917,1411 through 4649,4332
+switch 3596,3978 through 4762,4362
+turn on 417,4254 through 3674,4558
+turn off 2517,1576 through 3702,3649
+turn off 86,452 through 3423,1103
+turn on 687,2340 through 2371,4022
+turn off 1095,2108 through 2171,2991
+turn off 1509,3845 through 4740,4174
+switch 3015,2239 through 4596,3718
+turn off 4727,3386 through 4899,4893
+turn on 3700,3479 through 4294,4064
+switch 252,1636 through 3528,4393
+turn off 809,909 through 1452,3176
+turn on 310,2400 through 2862,2683
+turn on 1812,2045 through 1927,3157
+switch 1907,3584 through 2198,4346
+turn off 2683,2120 through 4690,2697
+switch 4037,1592 through 4835,3675
+turn off 3906,1688 through 4838,1697
+turn off 605,3873 through 1869,4534
+turn off 1877,1056 through 4752,2808
+switch 2161,3480 through 4123,4138
+turn off 828,3050 through 1720,3708
+switch 1801,3820 through 3823,4956
+switch 2074,3669 through 2930,4654
+turn on 2410,343 through 4039,1769
+switch 4800,4497 through 4829,4735
+turn on 3111,314 through 4013,3510
+switch 491,954 through 4401,3404
+turn off 802,4686 through 1813,4925
+turn off 1433,126 through 2036,841
+switch 3857,2507 through 4783,4790
+turn off 515,4722 through 3271,4849
+turn on 670,3989 through 4853,4295
+turn off 82,4713 through 1243,4885
+turn off 45,3455 through 3817,4191
+turn on 3497,2688 through 4079,3202
+turn off 2249,3424 through 3751,3537
+turn on 4944,323 through 4972,2176
+switch 4143,3128 through 4794,3501
+turn off 3014,3019 through 3329,3408
+turn off 4396,1857 through 4831,3888
+turn on 391,450 through 1615,4559
+switch 3791,2949 through 4811,3903
+turn on 933,2429 through 2217,3879
+turn off 4714,1706 through 4730,3920
+turn off 1570,1905 through 3653,3905
+turn on 830,4214 through 4160,4564
+turn on 4598,1365 through 4930,3780
+turn off 132,3166 through 216,3377
+turn off 2530,120 through 4613,178
+turn on 191,899 through 3793,1511
+turn off 4056,1883 through 4490,3791
+turn off 3785,1928 through 4413,3911
+switch 3730,1162 through 4426,3107
+turn on 2350,1620 through 2453,4527
+turn on 257,2521 through 1624,3679
+switch 4410,4726 through 4715,4761
+turn on 4646,161 through 4963,2948
+turn on 3602,2645 through 3996,4046
+turn off 3391,1953 through 3915,3481
+turn off 1170,2629 through 2263,4241
+switch 3364,2998 through 4258,3867
+turn off 68,2321 through 2388,4717
+turn on 1687,1476 through 2253,4478
+switch 1995,357 through 4248,2711
+turn off 3702,4162 through 4918,4950
+turn off 716,1933 through 4911,3503
+switch 3956,1929 through 4756,3299
+turn off 51,1340 through 4582,2762
+switch 2292,2320 through 2751,4173
+turn off 2268,4032 through 2389,4997
+turn on 3195,46 through 4429,865
+switch 3408,1258 through 4973,2561
+turn on 2510,4297 through 3175,4431
+turn on 2652,2931 through 3700,4921
+turn off 4418,4001 through 4665,4324
+turn off 463,197 through 3620,959
+switch 2692,488 through 4011,699
+turn on 3388,2561 through 4688,4883
+turn on 411,3558 through 1632,3846
+turn off 2586,4378 through 4830,4546
+turn on 3660,276 through 3742,1417
+turn off 2539,3645 through 3881,3914
+switch 3690,1356 through 4425,4372
+turn off 104,3191 through 145,4181
+turn off 1702,1119 through 4056,2473
+turn on 3689,301 through 4169,2264
+switch 2831,3150 through 4933,4695
+turn off 2067,3696 through 4402,3922
+turn off 2587,4221 through 3387,4541
+switch 2321,4365 through 3768,4989
+turn off 2962,572 through 4941,1765
+turn on 3465,878 through 4239,2697
+turn on 2554,3677 through 3555,4109
+turn off 3808,3721 through 4980,4133
+turn off 484,681 through 4784,4312
+switch 2309,4140 through 3391,4366
+switch 3389,4612 through 3804,4799
+turn off 4087,3495 through 4836,3920
+switch 3957,4472 through 4560,4809
+turn on 887,4502 through 3993,4695
+switch 3725,2718 through 4705,2792
+turn on 2855,556 through 3610,1350
+turn on 64,1037 through 2433,4836
+turn off 3350,559 through 3677,1626
+switch 990,2987 through 4693,3552
+turn off 4024,809 through 4227,1590
+turn on 4497,2269 through 4552,2519
+turn off 4026,2361 through 4117,3696
+switch 4454,1805 through 4744,4271
+turn off 4104,4659 through 4447,4699
+turn off 3791,1184 through 3888,4925
+switch 4577,366 through 4999,3996
+turn off 4722,1611 through 4828,4263
+turn off 3758,3120 through 4779,4165
+turn on 449,2224 through 1610,2562
+switch 2306,300 through 2469,1439
+turn off 2312,1306 through 4090,2437
+turn off 4652,60 through 4845,2229
+switch 4689,4066 through 4996,4830
+turn on 3106,849 through 4645,4378
+turn on 3387,687 through 4326,2488
+switch 164,2833 through 2998,3202
+turn on 2499,1378 through 4295,2546
+turn on 4032,2256 through 4708,2978
+switch 863,2624 through 4024,4582
+turn on 3562,2250 through 3619,2512
+switch 4931,3606 through 4936,4431
+turn off 1058,3693 through 3792,4031
+switch 4632,3511 through 4762,4246
+turn off 2291,4496 through 3692,4886
+turn off 1700,1156 through 2893,4938
+turn off 2325,3007 through 4825,4210
+turn on 2463,2538 through 3999,3433
+switch 2596,1522 through 4456,2174
+switch 2737,3580 through 3236,4079
+turn on 865,1989 through 1892,2879
+turn on 2767,4168 through 4342,4728
+switch 4984,3209 through 4999,3256
+turn on 2353,3872 through 3035,4175
+turn on 1047,247 through 1916,4721
+turn on 2416,4555 through 2466,4972
+switch 3760,2782 through 4829,4155
+turn on 1460,3333 through 3590,3626
+switch 1350,674 through 1533,2238
+turn on 1863,2871 through 2178,4268
+turn on 423,4951 through 3196,4980
+turn on 3097,2621 through 4501,4059
+turn on 426,1857 through 3810,2784
+turn on 2173,1237 through 2261,1592
+turn on 2879,4511 through 3417,4789
+switch 4627,2159 through 4934,4708
+switch 28,1032 through 4569,4820
+turn off 2468,4338 through 4694,4489
+turn on 3055,1461 through 3214,3067
+switch 2908,2321 through 2936,4484
+turn on 3230,1670 through 3934,2596
+turn on 3707,4997 through 4632,4999
+turn on 1390,4118 through 2516,4936
+switch 2771,1433 through 3022,4369
+turn on 3621,1083 through 4695,2421
+switch 670,2337 through 1466,2668
+switch 4469,3492 through 4539,4478
+turn on 580,2808 through 2898,2837
+switch 1286,1791 through 2506,2581
+switch 4614,2270 through 4980,3918
+turn on 1367,1769 through 1469,4444
+turn off 3974,865 through 4958,2125
+turn off 1021,40 through 2128,2364
+switch 4222,4835 through 4258,4973
+turn off 1535,3882 through 2857,4362
+switch 4690,3027 through 4716,3300
+turn on 1820,1137 through 2699,4691
+turn off 3619,2812 through 4673,3339
+switch 662,432 through 2781,4473
+turn off 1637,4455 through 4170,4606
+switch 4927,4257 through 4942,4544
+turn on 4349,1835 through 4650,3118
+turn off 2834,4455 through 3977,4713
+turn on 4044,590 through 4705,4181
+switch 4856,87 through 4921,1766
+turn off 3295,1326 through 3414,1952
+turn on 4641,259 through 4875,4688
+turn off 855,1962 through 3384,3349
+turn on 1607,1759 through 4132,4034
+turn on 4319,628 through 4783,953
+turn off 4817,1539 through 4986,1925
+switch 1683,3395 through 4440,3705
+switch 1658,3143 through 4664,3214
+switch 2325,3419 through 2831,4298
+turn on 2495,3359 through 3933,3660
+switch 247,2387 through 1311,3544
+turn off 1857,4103 through 2373,4752
+turn off 4471,3270 through 4668,4155
+turn on 4374,2208 through 4855,4379
+turn off 2915,3162 through 4821,3867
+turn on 4853,1111 through 4945,1714
+switch 615,513 through 938,1883
+switch 4267,3949 through 4319,4614
+turn off 2629,1631 through 3815,4562
+switch 4919,416 through 4927,1972
+switch 193,502 through 2053,787
+turn off 899,902 through 1164,1687
+turn on 4412,4731 through 4855,4828
+turn off 4343,2346 through 4552,4079
+switch 1291,157 through 2258,3335
+switch 4497,2138 through 4862,4557
+switch 486,2462 through 3713,4238
+turn on 497,1424 through 4663,2911
+turn off 4815,3985 through 4975,4541
+turn on 2011,3793 through 4367,4095
+turn off 3986,1654 through 4687,4061
+turn on 3068,3933 through 4011,4885
+turn off 3838,2835 through 4788,2984
+turn on 2209,3236 through 4331,3943
+switch 1674,1333 through 2182,1885
+turn on 3256,762 through 4868,1123
+switch 231,2834 through 666,4048
+switch 2130,4054 through 4151,4708
+switch 8,4215 through 4913,4647
+turn off 4220,4300 through 4686,4886
+turn off 2443,2242 through 4697,4514
+switch 1832,4553 through 3223,4566
+turn on 4871,4893 through 4977,4919
+turn off 566,1107 through 2473,3008
+turn off 1628,1338 through 4705,2733
+turn on 2449,2081 through 3770,4109
+turn off 1118,1003 through 3200,4647
+switch 221,3584 through 3974,4649
+turn on 4476,3670 through 4851,4847
+switch 4678,4682 through 4767,4821
+turn off 4279,4578 through 4756,4965
+switch 3593,2645 through 4226,3391
+turn on 127,1988 through 4819,4303
+turn off 3251,3795 through 3800,4036
+turn on 1904,89 through 3259,2557
+turn off 4513,622 through 4766,4039
+switch 1105,3439 through 1218,4890
+turn on 4994,4388 through 4995,4846
+switch 4200,2618 through 4793,4660
+switch 337,2893 through 1562,3137
+turn on 598,4345 through 1669,4552
+turn on 3994,1088 through 4367,4972
+turn off 3374,3540 through 3446,3701
+turn off 16,4612 through 1208,4948
+switch 417,4923 through 4172,4982
+switch 216,2 through 3511,220
+turn off 723,3589 through 2696,4743
+turn on 775,2365 through 2038,4264
+switch 829,1651 through 1153,3990
+turn on 703,878 through 1244,1885
+switch 4666,1252 through 4862,2641
+turn off 4503,115 through 4534,3563
+turn on 3100,553 through 4715,3957
+turn on 3244,885 through 4148,4598
+turn off 4755,2427 through 4976,4449
+turn off 2644,2179 through 4737,3742
+switch 47,2427 through 308,4503
+switch 2827,178 through 3061,2348
+switch 3385,60 through 4507,542
+switch 2882,3511 through 4586,4975
+switch 3794,1220 through 4259,4604
+turn off 296,3506 through 1705,4339
+turn on 801,1788 through 1003,3349
+turn off 4287,755 through 4592,3064
+turn on 1141,3885 through 2235,4409
+switch 1006,969 through 1175,3159
+turn off 4912,2499 through 4923,3377
+switch 3099,247 through 3497,3275
+turn off 232,3067 through 506,3626
+turn off 2482,3222 through 2685,4827
+turn on 2808,2472 through 4055,3891
+turn off 2847,4052 through 3595,4590
+switch 1038,3002 through 2768,4569
+switch 749,4578 through 1266,4586
+switch 4804,4135 through 4946,4435
+turn on 2340,2397 through 4960,4596
+turn on 2088,4065 through 3115,4734
+turn on 3660,4868 through 4215,4963
+turn on 3440,2506 through 4690,3350
+turn on 1611,1127 through 4398,2570
+turn off 3734,3036 through 3809,4212
+turn on 1851,4682 through 3392,4809
+turn off 1555,1390 through 3235,3119
+turn on 12,1666 through 641,2613
+switch 4474,4889 through 4910,4974
+switch 1603,2469 through 1618,3077
+turn off 1022,2921 through 3226,3430
+turn on 2955,344 through 3564,1347
+switch 4236,567 through 4325,1679
+turn off 278,200 through 4370,1200
+turn on 389,3128 through 426,4473
+switch 3951,2013 through 4364,4037
+switch 1752,583 through 4805,1371
+switch 4177,2720 through 4887,3166
+switch 1937,2549 through 3334,3927
+turn off 3727,2946 through 4629,4210
+turn off 1585,2202 through 3085,3906
+switch 1316,3440 through 1946,3691
+turn off 1186,2844 through 1655,4512
+turn off 4346,4365 through 4607,4398
+turn off 1353,2008 through 4234,3230
+switch 875,3430 through 3272,4379
+turn off 2725,227 through 3102,2366
+turn on 4590,4462 through 4923,4933
+turn on 3470,1347 through 4407,3076
+turn on 3929,3324 through 4241,4563
+switch 1942,3018 through 4215,4849
+switch 1189,1781 through 1571,4861
+switch 1414,2525 through 4558,3564
+turn off 529,4528 through 4980,4839
+turn off 2180,4561 through 4840,4610
+turn on 4344,424 through 4618,2935
+turn off 4068,3277 through 4558,3332
+turn off 3930,4469 through 4177,4535
+switch 2624,2871 through 3066,3615
+turn on 479,4919 through 4774,4950
+switch 2333,1047 through 2677,3599
+turn on 787,1065 through 4396,4913
+turn on 3658,257 through 3885,2461
+turn off 4322,4995 through 4649,4998
+turn off 789,3768 through 994,4405
+turn off 4233,2005 through 4317,3620
+switch 4486,4039 through 4712,4978
+switch 346,503 through 3310,3176
+switch 4585,74 through 4749,4105
+switch 327,139 through 928,2745
+turn off 2224,3046 through 3761,3225
+switch 4797,2138 through 4907,2333
+switch 3976,366 through 4406,4043
+switch 2362,3239 through 2531,4741
+turn off 4436,3676 through 4982,4031
+turn off 4027,2267 through 4601,3477
+switch 2222,1760 through 4123,4238
+switch 1900,930 through 4052,3819
+switch 859,2564 through 2370,2896
+switch 386,837 through 3445,1798
+turn on 4194,862 through 4707,4376
+turn on 3184,4844 through 4188,4948
+switch 446,3501 through 2666,3805
+turn on 4491,313 through 4767,1669
+turn off 2856,3980 through 4829,4959
+turn on 4027,2812 through 4367,3602
+turn on 2218,1039 through 4271,1179
+turn on 387,4729 through 1824,4742
+turn on 76,2983 through 1554,4824
+turn on 3294,1539 through 4783,4282
+switch 4128,1467 through 4213,2400
+turn on 2304,924 through 2651,3034
+turn on 746,3221 through 3226,4851
+turn off 1409,1644 through 4150,1962
+turn off 1532,4462 through 3204,4542
+turn off 2745,1503 through 4553,1969
+turn off 1668,3861 through 4571,4780
+turn on 562,4128 through 2826,4364
+switch 2648,4775 through 3070,4821
+turn on 473,2310 through 3346,3538
+turn on 4312,2871 through 4502,4458
+turn on 3397,3729 through 4873,4349
+switch 2874,3357 through 3541,3971
+turn off 3738,4355 through 4505,4577
+turn on 929,1203 through 2201,3567
+turn off 4979,4521 through 4992,4710
+turn off 2093,2935 through 3576,4801
+turn on 798,1982 through 2325,4514
+turn on 4009,1849 through 4138,2596
+switch 2381,4685 through 3400,4999
+switch 2278,290 through 2562,3033
+turn on 171,3734 through 3068,4955
+turn off 4934,143 through 4978,4516
+turn off 255,279 through 1880,2254
+turn on 3119,2790 through 4196,3984
+switch 978,1859 through 2875,3555
+turn off 2517,2896 through 2794,3533
+switch 4733,3500 through 4949,3752
+switch 1845,3458 through 4317,4365
+switch 1341,4940 through 4512,4976
+turn on 1495,3803 through 4561,4715
+turn on 4120,3023 through 4715,4854
+turn on 1305,1978 through 1699,2892
+turn on 3452,3425 through 4951,4497
+turn on 4574,3394 through 4837,3572
+turn on 2154,2871 through 4840,3767
+turn on 126,1883 through 482,2266
+turn off 2866,2428 through 3126,2913
+switch 71,1549 through 4772,3717
+turn off 4639,2477 through 4912,3585
+switch 838,3394 through 4424,4805
+turn on 2992,804 through 4873,1654
+switch 280,2777 through 2035,3171
+switch 1772,4682 through 2626,4780
+switch 2978,2607 through 4218,3221
+turn off 4721,4431 through 4837,4670
+switch 4948,3289 through 4951,4744
+turn off 3758,1924 through 4179,4315
+turn off 4270,4325 through 4284,4949
+turn off 2247,3891 through 3457,4303
+turn on 3349,444 through 4387,3449
+switch 2381,4507 through 3408,4886
+turn on 4468,1095 through 4860,2878
+switch 4304,2785 through 4727,4250
+switch 1216,3444 through 4981,4297
+turn off 1814,4213 through 2660,4778
+switch 1806,1947 through 4680,4870
+switch 2549,4757 through 3434,4871
+turn on 434,1822 through 782,4097
+turn off 3806,2194 through 4063,3843
+turn on 4491,2725 through 4509,3653
+turn off 4604,1107 through 4764,2973
+switch 3992,731 through 4656,3678
+turn off 3776,1213 through 4760,4250
+turn on 88,1786 through 2150,2791
+turn off 3853,2882 through 4659,3205
+turn off 4429,2480 through 4617,4720
+turn off 3257,1454 through 3641,3254
+turn on 968,1823 through 4138,1881
+switch 4951,3842 through 4976,4765
+turn off 1986,2864 through 3590,3784
+switch 3297,3907 through 4322,4121
+turn on 2736,3501 through 3896,3667
+turn on 2447,44 through 3500,3499
+turn on 1727,3128 through 2678,3679
+turn off 407,2266 through 4578,3161
+switch 1187,2472 through 2901,3060
+turn on 994,1005 through 3295,1288
+switch 3083,453 through 3815,2625
+switch 3671,1699 through 4900,3948
+turn on 1570,2097 through 1989,2838
+turn on 1563,1463 through 2249,2914
+switch 2668,514 through 3398,1137
+turn on 307,2523 through 3626,4368
+turn on 3487,3567 through 3993,3871
+switch 3307,158 through 4319,2123
+turn off 1884,2944 through 4922,4767
+switch 316,4105 through 3910,4855
+turn on 1326,89 through 1644,2616
+switch 2126,4248 through 3513,4539
+turn off 848,4377 through 877,4603
+turn on 660,3701 through 828,3768
+turn on 1627,3015 through 2389,3681
+turn off 852,3594 through 3567,4526
+switch 1426,3481 through 4547,3530
+turn off 1785,4172 through 4832,4950
+turn off 3435,1377 through 4333,2144
+turn on 4219,4741 through 4345,4960
+turn off 4645,408 through 4989,3996
+turn off 3929,1974 through 4117,4561
+turn on 4183,4786 through 4352,4974
+turn off 3991,2146 through 4880,4050
+turn off 2826,4817 through 4740,4936
+turn off 105,4432 through 3083,4541
+switch 2739,2766 through 3110,4736
+switch 2054,3823 through 4326,4323
+turn off 1923,3617 through 4484,4892
+turn on 1025,1803 through 1826,4168
+turn off 2152,3459 through 3299,4673
+turn on 876,3583 through 4852,4043
+turn on 1107,304 through 4235,2167
+turn on 2453,1905 through 2929,1954
+switch 4262,3200 through 4907,4891
+switch 3438,1193 through 4609,3591
+turn off 134,709 through 4312,3534
+switch 4303,4106 through 4608,4184
+switch 1463,1268 through 2760,2182
+turn on 1676,4714 through 3578,4862
+turn off 3588,4724 through 4016,4906
+turn off 3743,338 through 4686,1358
+switch 3306,743 through 4200,4037
+switch 2621,179 through 4301,2703
+turn off 1231,3050 through 1696,4142
+switch 4433,1313 through 4744,2976
+turn on 4443,3930 through 4805,4419
+switch 2562,4278 through 4200,4813
+turn on 2165,4285 through 4746,4602
+turn off 551,285 through 1340,1725
+turn on 1332,1302 through 3970,2392
+turn off 842,2620 through 2584,3249
+turn on 4064,209 through 4597,1063
+turn off 976,429 through 3007,2907
+turn off 979,4781 through 2294,4975
+turn off 535,543 through 2076,4413
+switch 3773,3142 through 4164,4380
+turn off 3549,2336 through 4987,2383
+turn on 4912,985 through 4975,3883
+turn on 869,3468 through 1578,4439
+switch 2217,2984 through 4158,3655
+turn off 4034,4348 through 4802,4575
+switch 2629,909 through 3907,2757
+turn off 685,3558 through 1179,4167
+turn off 4192,3587 through 4367,3748
+turn off 3125,4137 through 3891,4872
+turn off 3174,4866 through 3541,4927
+switch 2907,179 through 4414,1417
+turn off 3064,665 through 3792,1862
+turn on 4160,4388 through 4543,4502
+switch 2904,2095 through 3515,4667
+switch 537,4318 through 3629,4816
+turn off 391,2479 through 3217,2695
+turn on 499,2147 through 901,3104
+turn off 3720,559 through 4691,1257
+turn off 1107,1753 through 1402,4428
+turn off 2145,671 through 4535,3660
+turn off 1175,2095 through 4538,3329
+switch 2155,1174 through 4572,2104
+switch 73,2625 through 4909,2846
+turn on 847,685 through 1343,1468
+turn off 4745,3029 through 4772,4074
+switch 1340,4104 through 3294,4118
+turn off 83,3903 through 2209,4120
+switch 4027,4603 through 4718,4926
+turn off 1503,1102 through 4998,4719
+switch 1919,589 through 3818,2735
+turn off 279,988 through 2464,1861
+turn on 4198,2089 through 4325,3213
+turn off 4042,2108 through 4046,2993
+turn on 3176,2012 through 3723,4913
+turn off 1485,2594 through 4114,3071
+turn off 1954,3150 through 3548,4974
+switch 1342,2345 through 3703,3905
+turn off 4256,4504 through 4869,4900
+turn off 698,1260 through 3969,2814
+turn on 217,464 through 403,1065
+turn on 3809,1811 through 4188,3280
+switch 4245,120 through 4359,309
+switch 2025,1580 through 3574,4586
+turn off 464,3416 through 606,3861
+turn on 2930,4087 through 4679,4493
+turn on 2076,577 through 4918,2613
+turn off 250,1070 through 4877,3507
+turn off 484,4977 through 1281,4988
+switch 4870,2711 through 4925,4536
+switch 536,2406 through 2983,4660
+turn off 23,2979 through 1878,3670
+turn off 1963,1341 through 2891,3543
+turn off 251,633 through 4781,4210
+switch 2629,4602 through 4119,4696
+turn on 995,1868 through 3991,4925
+turn off 1738,1901 through 2963,3760
+switch 1952,1709 through 2348,3942
+turn off 2029,3119 through 3453,4089
+turn off 3378,2604 through 4025,3472
+switch 3860,2610 through 4819,4323
+switch 1593,270 through 3659,1885
+turn off 3525,2660 through 4358,4087
+turn off 1552,1739 through 2732,2605
+turn off 3347,3898 through 4047,4993
+switch 2039,4998 through 4441,4999
+turn off 3740,1462 through 3833,2849
+switch 2834,3838 through 4400,4347
+turn on 4399,522 through 4607,1001
+turn on 4452,173 through 4853,3631
+turn off 2938,4070 through 3631,4582
+switch 2844,474 through 3399,3934
+turn off 381,1760 through 580,2921
+turn off 905,755 through 984,1010
+turn off 3831,3839 through 4431,4209
+turn on 1201,413 through 2535,3176
+turn off 4986,1677 through 4999,2753
+switch 3023,2724 through 4185,4553
+switch 558,847 through 2013,2459
+turn off 826,4241 through 1343,4673
+turn off 1539,719 through 3354,2226
+turn off 2337,4496 through 3677,4544
+turn on 2834,3387 through 4210,4732
+turn off 3870,4805 through 3976,4862
+turn on 2528,2741 through 3713,4827
+turn off 4611,1087 through 4893,4697
+switch 1429,4784 through 1987,4861
+turn off 2266,280 through 3669,616
+turn on 2606,3338 through 3376,3652
+turn off 4270,2332 through 4926,4510
+switch 1428,653 through 1455,4473
+switch 950,1675 through 977,3307
+turn on 3219,3373 through 4090,4263
+switch 619,2069 through 3021,2840
+turn on 2288,2120 through 3812,3469
+turn off 2417,1415 through 4158,4992
+turn on 4121,608 through 4709,1611
+switch 400,2686 through 430,2869
+turn on 2168,2094 through 3281,4031
+switch 778,795 through 2914,1539
+turn off 914,1117 through 2269,2745
+turn on 1029,2653 through 1904,2682
+turn on 2855,4310 through 3633,4517
+switch 3428,335 through 3477,1313
+switch 3957,1052 through 4939,2962
+turn off 2617,1943 through 3908,2250
+turn on 4015,3513 through 4133,4303
+turn on 1698,2128 through 2383,3695
+switch 2518,1037 through 3746,2257
+turn on 2664,3167 through 4558,4282
+switch 2617,321 through 3648,2377
+turn off 3524,289 through 3610,1979
+turn off 1312,1405 through 1786,4690
+turn off 2285,3522 through 4475,4571
+switch 1630,2220 through 4678,4775
+turn off 4257,3821 through 4903,4864
+turn on 229,981 through 2658,3517
+turn on 2225,1798 through 2555,4991
+turn on 337,873 through 1385,4598
+turn off 103,118 through 1629,471
+turn off 1860,3467 through 3050,4484
+turn on 2064,2687 through 4869,3651
+turn off 4974,2251 through 4983,3995
+switch 4269,2346 through 4699,3034
+turn off 3091,342 through 3799,697
+switch 4342,519 through 4374,4574
+turn off 4007,3642 through 4057,4980
+turn on 1922,4141 through 3728,4528
+turn off 2769,1789 through 4954,2025
+turn off 3364,4215 through 3886,4986
+turn off 2417,2817 through 2583,3364
+switch 4869,4430 through 4891,4832
+turn on 3141,2792 through 4709,4193
+switch 4279,4313 through 4553,4454
+turn off 3385,4931 through 4445,4986
+turn on 1274,4725 through 1551,4762
+switch 597,3834 through 1464,4755
+turn off 2142,3852 through 3502,4009
+switch 4431,3716 through 4925,4896
+switch 1431,3953 through 1599,4812
+turn on 3355,1764 through 4307,2206
+switch 2965,4493 through 3957,4994
+turn off 152,511 through 1579,3189
+turn off 904,3245 through 2074,4095
+switch 4268,7 through 4565,901
+turn off 1690,1024 through 1820,4261
+turn on 3712,4010 through 4285,4926
+switch 3916,3876 through 4851,4147
+switch 4101,3304 through 4235,4504
+switch 4654,4671 through 4865,4962
+switch 1122,467 through 4172,2641
+turn on 1070,2599 through 2254,4065
+turn off 502,1771 through 3897,3290
+turn on 3783,2248 through 4804,4750
+turn on 1149,2431 through 1968,3133
+turn off 705,4415 through 3412,4740
+turn on 3438,1960 through 3820,3958
+turn on 2571,1285 through 4932,2802
+switch 535,3153 through 3974,3821
+turn off 1768,363 through 3706,2788
+turn on 2574,1963 through 2986,2554
+switch 2762,2149 through 3355,2586
+switch 4132,4097 through 4139,4740
+switch 653,4779 through 1590,4817
+turn on 2067,375 through 4216,4025
+turn off 2529,2601 through 3197,3496
+turn on 957,56 through 4692,326
+switch 132,956 through 3134,4186
+turn on 1838,4155 through 2869,4941
+turn on 281,504 through 749,3442
+turn on 3245,1140 through 4974,3042
+switch 733,2271 through 4339,3722
+turn on 3091,197 through 3884,2279
+turn on 3810,1823 through 4058,3153
+switch 2662,3958 through 3861,4318
+turn on 1886,3541 through 3254,4121
+turn off 4164,3770 through 4953,4140
+turn on 3754,4732 through 3884,4980
+switch 32,4723 through 43,4952
+switch 2831,4510 through 4295,4678
+switch 4858,2253 through 4998,2765
+switch 903,1013 through 4497,4721
+switch 3602,2997 through 4172,3457
+turn off 4264,2702 through 4757,4261
+switch 2658,4226 through 4804,4967
+turn off 4149,4321 through 4282,4497
+switch 1237,2108 through 1255,2453
+turn on 2296,3356 through 4539,4670
+turn on 664,1112 through 4581,1176
+turn off 2392,4759 through 4295,4795
+turn on 2992,4684 through 3865,4754
+turn on 3230,1682 through 3871,4987
+turn off 2598,4277 through 3531,4856
+turn on 4825,1527 through 4959,2283
+turn off 657,1071 through 1310,4449
+turn on 1689,940 through 2095,2507
+turn off 3988,1544 through 4144,3703
+switch 122,1127 through 4298,1239
+switch 809,2727 through 3057,4797
+turn on 4459,3085 through 4552,4607
+turn on 401,2833 through 2884,4978
+turn off 3937,1128 through 4756,4189
+turn off 1384,3947 through 1695,4141
+turn on 4434,4624 through 4935,4884
+turn on 882,309 through 1391,2670
+switch 793,3573 through 3979,4889
+switch 3306,2158 through 3344,2583
+turn on 4149,1886 through 4514,4297
+switch 3129,3092 through 4005,4797
+turn off 859,4389 through 2027,4567
+turn on 3976,2363 through 4157,2623
+turn on 4117,887 through 4752,992
+switch 2014,1351 through 2355,4718
+switch 4307,2371 through 4640,4393
+turn on 1997,3276 through 3729,3637
+turn on 4693,4269 through 4838,4271
+turn on 493,1045 through 646,4146
+switch 3919,741 through 4092,4312
+switch 1809,488 through 3317,4058
+turn off 361,317 through 4379,1742
+turn on 1920,134 through 3206,726
+turn on 1373,2050 through 2557,2986
+switch 4352,4305 through 4595,4965
+turn off 547,4998 through 4015,4999
+turn off 3667,2175 through 4021,3109
+switch 1412,981 through 3825,2722
+turn on 493,4049 through 1998,4549
+switch 3230,215 through 3540,2818
+turn on 994,3137 through 3762,4043
+turn off 405,1393 through 4676,2824
+turn on 3210,1593 through 4030,3805
+switch 527,4303 through 2558,4589
+switch 3620,4754 through 4863,4956
+switch 2953,4522 through 3541,4635
+switch 644,2056 through 2317,4326
+turn on 2143,911 through 2222,3704
+turn off 794,3117 through 3642,4371
+turn on 1758,3013 through 2569,4447
+switch 4026,2128 through 4813,4569
+turn on 3465,2425 through 4544,3319
+switch 2420,2862 through 4493,4868
+turn on 4772,4722 through 4887,4902
+switch 3325,830 through 3605,1597
+turn on 3013,4654 through 4047,4956
+turn off 4597,3444 through 4972,4361
+turn on 4595,383 through 4698,2698
+switch 4300,45 through 4896,2848
+switch 4010,460 through 4518,3114
+turn off 3107,4315 through 4591,4833
+turn off 476,4865 through 2499,4959
+switch 2421,1078 through 3370,1713
+turn on 109,1938 through 1748,2724
+switch 3478,4712 through 3739,4868
+turn on 4506,4304 through 4705,4995
+turn off 3499,1709 through 4479,2462
+switch 1949,2556 through 3515,3978
+switch 4927,3216 through 4928,4849
+turn on 3673,3186 through 4233,3352
+switch 2021,3446 through 4530,4964
+switch 1874,4150 through 2172,4967
+turn off 4671,3291 through 4863,4156
