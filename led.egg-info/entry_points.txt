@@ -1,3 +1,0 @@
-[console_scripts]
-led = a3_led.main:main
-
