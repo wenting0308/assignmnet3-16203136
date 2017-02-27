@@ -10,8 +10,8 @@ def parse_input():
     # at least one argument is required
     parser.add_argument('--input', help='a filename for calculate total light on leds', nargs='+')
     args = parser.parse_args()
-    input = args.input
-    return input[0]
+    in_argument = args.input
+    return in_argument[0]
 
 def check_is_instr(string):
     """return True if words is in the list"""
@@ -21,14 +21,19 @@ def check_combin_instr(instr):
     """return True if instruction afer combination is valid"""
     return instr in ["turnon", "turnoff", "switch"]
 
+def check_is_digit(string):
+    
+    return string[-1].isdigit()
+
 def check_region(size, r):
     """return adjust region with valid x, y coordinate"""
     # check if out of size
     for i in range(4):
         if r[i] < 0:
             r[i] = 0
-        elif r[i] > size-1:
+        elif r[i] >= size:
             r[i] = size - 1
+    
     # check if start point is less than end point
     if r[0]>r[2] or r[1]>r[3]:
         ##swap
@@ -70,10 +75,10 @@ def run_led(led, instr, r):
 
 def main():
     # --input as optional argument for user to input a filename to process
-    input = parse_input()
+    path = parse_input()
     
     # read file of argument input and check if file exists
-    infile = '../input_file/' + str(input)
+    infile = path
     try:
         fn = open(infile,'r')
     
@@ -116,10 +121,10 @@ def main():
                     if check_is_instr(s):
                         instr += s
                     # ignore "through"
-                    elif s.isdigit():
+                    elif check_is_digit(s):
                         region[i] = int(s)
                         i+=1
-                
+
                 # second check if instruction after combination is valid
                 if not check_combin_instr(instr):
                     # if command not in "turnon" "turnoff" "switch" then ignore this command
@@ -132,6 +137,10 @@ def main():
                 ledLight = run_led(ledLight, instr, region)
                 
                 validCommand += 1
+                ledOn = 0
+                for i in range(ledSize):
+                    ledOn += sum(ledLight[i])
+                
             # sum the number of lights on
             ledOn = 0
             for i in range(ledSize):
