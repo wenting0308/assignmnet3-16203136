@@ -147,11 +147,10 @@ def main():
                 ledOn += sum(ledLight[i])
     
         fn.close()
-        return ledOn, validCommand
+        print(ledOn)
+        return ledOn
     
         
-    
 if __name__ == '__main__':
-    lightOn, commandRun = main()
-    print("Command run =", commandRun)
-    print("light on =", lightOn)
+    lightOn = main()
+    print(lightOn)
