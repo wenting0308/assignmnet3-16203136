@@ -4,10 +4,6 @@ from nose.tools import *
 from a3_led.main import *
 from dis import Instruction
 
-def test_parse_input():
-    """test input filename from the argument"""
-    #eq_(parse_input(), "input_assign3_test.txt", 'Capture filename is not equal to input filename!')
-    pass
 
 def test_check_is_instr():
     ok_(check_is_instr("on"), 'Fail checking valid instruction: turn, on, off, switch')
@@ -34,12 +30,7 @@ def test_run_led():
     
     eq_(run_led(ledBefore, instruction, runRegion), ledAfter, 'Command is not properly executed on LED light.')
     
-def test_main():
-    pass
-    #lightOn, commandRun = main()
-    
-    #eq_(lightOn, 3, 'The number on total light on is not correct.')
-    #eq_(commandRun, 0, 'The number of command line read is not correct.')
+
 
 
 
